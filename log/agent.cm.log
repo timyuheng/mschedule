@@ -1,0 +1,3 @@
+2018-12-19 09:07:54,217 INFO [agent.cm start] reg {'id': 'b30d0373eaca4f489d4d285b4870fad5', 'hostname': 'DESKTOP-09KJ8JV', 'timestamp': 1545181674.070414, 'ip': ['172.16.103.4', '192.168.124.1', '192.168.9.1', '172.20.10.2', '192.168.137.1']}
+2018-12-20 21:07:57,184 INFO [agent.cm start] reg {'id': 'b30d0373eaca4f489d4d285b4870fad5', 'hostname': 'DESKTOP-09KJ8JV', 'timestamp': 1545311276.99749, 'ip': ['172.16.103.4', '192.168.124.1', '192.168.9.1']}
+2018-12-20 21:18:55,541 INFO [agent.cm start] reg {'id': 'b30d0373eaca4f489d4d285b4870fad5', 'hostname': 'DESKTOP-09KJ8JV', 'timestamp': 1545311935.391966, 'ip': ['172.16.103.4', '192.168.124.1', '192.168.9.1']}

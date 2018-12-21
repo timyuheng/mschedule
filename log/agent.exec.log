@@ -1,0 +1,7 @@
+2018-12-20 21:23:18,245 INFO [agent.executor run] 0 b"'hello magedu'\r\n"
+2018-12-20 21:25:52,249 INFO [agent.executor run] 0 b"'hello magedu2'\r\n"
+2018-12-20 21:25:57,374 INFO [agent.executor run] 0 b"'hello magedu2'\r\n"
+2018-12-20 21:26:02,517 INFO [agent.executor run] 0 b"'hello magedu2'\r\n"
+2018-12-20 21:26:07,650 INFO [agent.executor run] 0 b"'hello magedu2'\r\n"
+2018-12-20 21:26:12,798 INFO [agent.executor run] 0 b"'hello magedu2'\r\n"
+2018-12-20 21:26:17,968 INFO [agent.executor run] 0 b"'hello magedu2'\r\n"
